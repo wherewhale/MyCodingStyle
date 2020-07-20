@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">CodingStyle</string>
+    <string name="start">시작하기</string>
+    <string name="start_text">나에게 맞는 프로그래밍 언어는?</string>
+    <string name="start_tt">여러분은 어떤 언어를 배우고 싶으신가요?\n테스트를 통해 알아보세요!\n\n재미로만 즐겨주세요 :)</string>
+    <string name="splashText">코딩대학</string>
+    <string name="yes">그렇다!</string>
+    <string name="no">아니다!</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="javascript">컴퓨터를 통해 유의미한 결과를 원하는 당신에게 어울리는 언어는 자바스크립트입니다. 굉장히 핫한 언어로 웹과 앱을 통틀어 많은 곳에서 사용되고 있는 자바스크립트의 매력에 빠져보세요!</string>
+    <string name="kotlin">스마트폰이 생활속에 들어온 당신이 많은 사람들을 위해 당신의 능력을 펼칠 수 있는 곳은 어플리케이션입니다. 자신만의 생각과 색깔로 스마트폰에서 자신의 생각을 펼쳐보세요!</string>
+    <string name="csharp">객체지향 방식을 통해 다른 프로그램과의 연동을 매우 잘 구현해놓은 C#이라는 언어는 Unity3D 와 같은 프로그램을 통해 여러분들의 상상을 게임으로 만들어줄 수 있는 능력을 가졌습니다!</string>
+    <string name="java">객체지향이라는 새로운 프로그래밍 언어의 패러다임을 제시한 자바는 여러분들에게 많은 언어로 발전할 수 있는 기회를 제공할 것입니다. 자신이 해야할 것을 명확하게 알기 어렵다면, 자바라는 언어를 접해보세요!</string>
+    <string name="r">데이터의 분석을 통해 유의미한 결과를 도출해내는 과정에 의미를 둔 당신에게 추천하는 프로그래밍 언어는 R입니다. 통계적 계산과 그래픽적인 표현을 통해 여러분들에게 효과적인 통계 계산을 제공할 것입니다!</string>
+    <string name="sql">방대한 데이터의 관리, 빅데이터의 관리는 이것으로부터 시작될 수 있습니다. 데이터베이스를 구축하여 다양한 프로그램과 서버에 도움이 되는 것을 만들어 집단에 도움이 되고 싶은 당신에게 어울리는 언어는 SQL입니다!</string>
+    <string name="c">프로그래밍 언어의 조상 C입니다. 당신이 생각하는 모든 것을 제작할 수 있으며, 제작자의 알고리즘과 복잡도에 따라 직접적인 영향을 끼칩니다. 컴퓨터를 이해하고 공부해보고 싶다면, C에 입문해보세요!</string>
+    <string name="python">C를 기반으로 제작된 python은 모듈화를 통해 가장 간단한 형태로 최고의 결과물을 제작할 수 있습니다. 통계, 기본적 연산, 그래픽적 처리 모두 모듈을 통해 사용할 수 있습니다. 유의미한 결과를 통해 쉽고 빠르게 배우고 싶은 분들에게 추천드립니다.</string>
+    <string name="share">공유하기</string>
+    <string name="q1">난 실질적인 결과가 있는 것을 하고싶다.</string>
+    <string name="q2">난 어플리케이션 같이 유용한 것을 만들고 싶다.</string>
+    <string name="q3">난 데이터를 통해 예측하는 것이 즐겁다.</string>
+    <string name="q4">난 스마트폰보다 컴퓨터를 더 선호한다.</string>
+    <string name="q5">난 게임과 같이 즐거움이 있는 것을 만들고 싶다.</string>
+    <string name="q6">데이터 관리보다는 분석이 더 재미있어 보인다.</string>
+    <string name="q7">난 조립보다는 창작이 좋다.</string>
+</resources>
